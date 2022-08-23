@@ -7,3 +7,14 @@ hyperlink_component.egg-info/SOURCES.txt
 hyperlink_component.egg-info/dependency_links.txt
 hyperlink_component.egg-info/requires.txt
 hyperlink_component.egg-info/top_level.txt
+hyperlink_component/frontend/build/asset-manifest.json
+hyperlink_component/frontend/build/index.html
+hyperlink_component/frontend/build/precache-manifest.d9ca983f77697fe812a9e4dc1f4a9cc8.js
+hyperlink_component/frontend/build/service-worker.js
+hyperlink_component/frontend/build/static/js/2.3876b695.chunk.js
+hyperlink_component/frontend/build/static/js/2.3876b695.chunk.js.LICENSE.txt
+hyperlink_component/frontend/build/static/js/2.3876b695.chunk.js.map
+hyperlink_component/frontend/build/static/js/main.56fd793c.chunk.js
+hyperlink_component/frontend/build/static/js/main.56fd793c.chunk.js.map
+hyperlink_component/frontend/build/static/js/runtime-main.68d35b50.js
+hyperlink_component/frontend/build/static/js/runtime-main.68d35b50.js.map
